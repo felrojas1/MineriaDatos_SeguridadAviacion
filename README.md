@@ -5,8 +5,8 @@ Este proyecto analiza un conjunto de datos sintético que documenta 55 años de 
 
 
 ## Estructura del Repositorio
-* `incidents.csv`: Datos crudos con el historial de incidentes.
-* `seguridad_aerea_mundial.ipynb`: Cuaderno de Colab con el pipeline de Machine Learning (Limpieza, Codificación y Modelado).
+* `incidents.csv`: Datos con el historial de incidentes.
+* `seguridad_aerea_mundial.ipynb`: Cuaderno de Colab con el codigo comentado
 
 ## Integrantes
 * Felipe Rojas
